@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  min-width: 300px;
+}
+.iframe-entry {
+  margin-bottom: 20px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  background: #f9f9f9;
+}
+button {
+  margin-top: 5px;
+  cursor: pointer;
+  padding: 5px 10px;
+}
